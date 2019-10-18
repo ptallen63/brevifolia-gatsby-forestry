@@ -45,7 +45,6 @@ fields:
   label: Test Block
   description: This is a test block
   showOnly:
-    field: author
     value: Paul T Dizzle
 pages:
 - content/posts/my-new-blog-post.md
