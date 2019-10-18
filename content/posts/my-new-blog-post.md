@@ -3,6 +3,13 @@ date: 2019-10-17T23:54:18Z
 hero_image: "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 title: My New Blog Post
 author: Paul T Dizzle
+test_block:
+- template: blog-post
+  date: 2019-10-18T00:06:20Z
+  hero_image: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
+  author: Paul T Dizzle
+  title: Test
+  test_block: []
 
 ---
 # Really New Post
