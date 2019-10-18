@@ -35,6 +35,18 @@ fields:
   label: hero image
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
+- name: test_block
+  type: blocks
+  template_types:
+  - blog-post
+  config:
+    min: 
+    max: 
+  label: Test Block
+  description: This is a test block
+  showOnly:
+    field: author
+    value: Paul T Dizzle
 pages:
 - content/posts/my-new-blog-post.md
 - content/posts/on-the-geneology-of-morals.md
